@@ -1,0 +1,1 @@
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:adico_vert/Configuration/TypoScript/Bootstrap/constants.txt">
