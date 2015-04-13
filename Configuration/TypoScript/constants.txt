@@ -1,1 +1,1 @@
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:adico_vert/Configuration/TypoScript/Bootstrap/constants.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:adico_vert_mousse/Configuration/TypoScript/Bootstrap/constants.txt">
