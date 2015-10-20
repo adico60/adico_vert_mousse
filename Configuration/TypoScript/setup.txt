@@ -1,0 +1,5 @@
+page {
+  includeCSS {
+    theme2 = EXT:adico_vert_mousse/Resources/Private/Less/link.less
+  }
+}  
